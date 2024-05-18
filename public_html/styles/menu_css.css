@@ -1,0 +1,267 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #ddd;
+}
+.header{
+    background-color: red;
+    height: 150px;
+    margin: 0px;
+}
+.header h1{
+   font-size: 50px;
+   font-family: 'Algerian';
+   font-weight: bold;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    padding-top: 0px;
+    margin-top: 0px;
+  
+}
+ul li a{
+    color: black;
+    letter-spacing: 0.1rem;
+   font-weight: bold;
+}
+ul li a:hover{
+    color: white;
+    text-decoration: underline;
+    
+}
+.menu li{
+    float: left;
+    padding: 35x;
+}
+.menu li a{
+    text-decoration: none;
+}
+.corps{
+    
+    justify-content: center;
+    align-items: center;
+}
+.corps3{
+    padding: 20px;
+    padding-right: -100%;
+}
+.menu6{
+    padding: 20px;
+    margin: 5px;
+}
+.menu6 ol li{
+    margin: 8px;
+}
+
+.navbar h1{
+    text-decoration: none;
+    background-color: blue;
+    padding: 30px;
+    margin: 10px;
+}
+.navbar h1 p{
+    margin: 10px;
+    color: red;
+}
+.navbar ol li{
+    margin: 0px;
+    padding: 10px;
+}
+ol li a{
+    text-decoration: none;
+    
+}
+
+.menu2{
+    background-color: rosybrown;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu2 ul li a{
+    font-family:"Algerian";
+    text-decoration: none;
+    padding: 20px;
+}
+.menu2 ul li a:hover{
+    color: whitesmoke;
+    text-decoration: underline;
+    background-color: red;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.nav-link p a{
+    text-decoration: none;
+} 
+.nav-link p a:hover{
+    text-decoration: underline;
+    color: red;
+    background-color: white;
+} 
+logo{
+    height: 640px;
+    width: 960px;
+}
+.caroussel{
+    display: flex;
+       justify-content: center;
+   align-items: center;
+   height: 100vh;
+   background-color: #ddd;
+
+   
+}
+.images{
+    display: flex;
+   width: 960px;
+   overflow: auto;
+       border: 2px solid #333;
+}
+.menu3 tr{
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    box-sizing: border-box;
+    color: red;
+    font-size: 18px;
+}
+.menu3 th{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'algerian';
+    text-decoration: underline;
+}
+.menu3 td{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 1px solid black;
+    box-sizing: border-box;
+    color: blue;
+    
+    
+}
+.menu3 tr{
+     font-family: 'calibri';
+}
+.menu4{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: whitesmoke;
+    font-family: 'calibri';
+}
+.menu4 th{
+    font-family: 'algerian';
+    text-decoration: underline;
+    margin: 10px;
+    padding: 10px;
+}
+.menu4 td{
+    margin: 10px;
+    padding: 10px;
+}
+.menu5{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: whitesmoke;
+    font-family: 'calibri';
+}
+.menu5 tr th{
+    padding: 10px;
+    font-family: 'algerian';
+    text-decoration: underline;
+}
+.menu5 tr td{
+    padding: 10px;
+}
+.nav-link p a{
+    font-size: 300%;
+    font-weight: bold;
+    font-family: 'algerian';
+    padding: 20px;
+    margin: 20px;
+}
+.nav-link{
+    font-size: 150%;
+}
+.navbar2{
+    padding: 20px;
+    margin: 20px;
+}
+.MN{
+    margin: 20px;
+    padding: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.MN h4{
+    margin: 20px;
+    padding: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+    text-decoration: underline;
+    
+}
+
+caroussel2{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   background-color: #ddd;
+   padding: 0px;
+   margin: 0px;
+}
+.seminaire{
+    display: flex;
+   width: 550px;
+   overflow: auto;
+       border: 2px solid #333;
+      
+}
+caroussel4{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   background-color: #ddd;
+   padding: 0px;
+   margin: 0px;
+}
+.images1{
+    display: flex;
+   width: 655px;
+   overflow: auto;
+       border: 2px solid #333;
+      
+}
+caroussel3{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   background-color: #ddd;
+   padding: 0px;
+   margin: 0px;
+}
+.annexes{
+    display: flex;
+   width: 560px;
+   overflow: auto;
+       border: 2px solid #333;
+      
+}
+.nav-link p img{
+    width: 100px;
+    padding: 20px;
+    margin: 20px;
+    
+}
